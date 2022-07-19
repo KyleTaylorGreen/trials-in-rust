@@ -1,0 +1,1 @@
+/Users/kylegreen/codeup-data-science/trials_in_rust/trials-in-rust/first_rust_program/target/debug/first_rust_program: /Users/kylegreen/codeup-data-science/trials_in_rust/trials-in-rust/first_rust_program/src/main.rs
